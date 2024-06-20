@@ -16,6 +16,5 @@
 <li>IDE - Funcionamento e configurações;</li>
 <li>Ferramentas diversas para serem utilizadas;</li>
 <li>Programação Orientada a Objetos;</li>
-<li>Noção de Git</li>
 <li>Gerenciamento de dados utilizado MySQL</li>
 </ul>
